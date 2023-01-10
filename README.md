@@ -1,12 +1,9 @@
 # JavaScript-Counter
-Learning New things is fun and building something based on the knowledge can be exciting. I love to create new project with the skill I learned. 
+Lets create a JavaScript counter with HTML, CSS and JavaScript. It a fun project and you will able to increment, decremnt as well as reset the number.
 
 
 ## 📝 Description
-I create this calculator app based on one the youtube video and customized this as my design taste, If you are quries how to create this type of todo app with JavaScript you can check the video. 👇
-
- - 👉 https://www.youtube.com/watch?v=TXCj39dGLlY v1
- - 👉 https://www.youtube.com/watch?v=j59qQ7YWLxw v2
+Lets create a JavaScript counter with HTML, CSS and JavaScript. It a fun project and you will able to increment, decremnt as well as reset the number.
 
 
 
