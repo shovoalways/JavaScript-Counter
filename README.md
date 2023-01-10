@@ -1,9 +1,9 @@
 # JavaScript-Counter
-Lets create a JavaScript counter with HTML, CSS and JavaScript. It a fun project and you will able to increment, decremnt as well as reset the number.
+Lets create a JavaScript counter with HTML, CSS and JavaScript. It a fun project and you will able to increment, decrement as well as reset the number.
 
 
 ## 📝 Description
-Lets create a JavaScript counter with HTML, CSS and JavaScript. It a fun project and you will able to increment, decremnt as well as reset the number.
+Lets create a JavaScript counter with HTML, CSS and JavaScript. It a fun project and you will able to increment, decrement as well as reset the number.
 
 
 
